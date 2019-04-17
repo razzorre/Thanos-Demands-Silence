@@ -1,5 +1,6 @@
 [![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)](https://www.youtube.com/watch?v=GzWeRfytGpE) 
-The demo provided above is the GOT spoiler extention developed by **Rachit**.
+
+The demo provided is the GOT spoiler extention developed by **Rachit**.
 
 # :sparkles: Thanos Demands Silence - Chrome Extension <img src="black-avengers-png-logo-2.png" alt="ðŸº" width="64"/>
 
