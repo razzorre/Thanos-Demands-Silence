@@ -2,11 +2,15 @@
 
 The demo provided is the GOT spoiler extention developed by **Rachit**.
 
+
+
 # :sparkles: Thanos Demands Silence - Chrome Extension <img src="black-avengers-png-logo-2.png" alt="ðŸº" width="64"/>
 
 This extension will save you from reading any Avengers Endgame Spoilers as well as visual images. <br/>
 
 This extension is inspired by **Rachit**, a Software Engineer who is making world a better place by uploading videos on YouTube about his career choices, cool web projects, programming, data structures, algorithms, and more!  <br/>
+
+Link to his [GOT spoiler extention](https://github.com/rachitiitr/GameOfThrones-ChromeExtension)
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
